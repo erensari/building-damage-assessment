@@ -1,0 +1,20 @@
+torch
+torchvision
+pretrainedmodels
+albumentations
+numpy
+rasterio
+torch-ema
+matplotlib
+shapely
+kornia
+opencv-python
+ultralytics
+pillow
+imageio
+scikit-learn
+PyYAML
+tqdm
+transformers
+
+# Place the geotiff datasets in their respective folders.
